@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameSounds()
+comment0.text=Initialize\ audio\ files
+comment1.params=
+comment1.target=void\ mitzvaGoreres()
+comment1.text=Play\ Mitzva\ Goreres\ sound
+comment2.params=
+comment2.target=void\ dropping()
+comment2.text=Play\ Coin\ dropping\ sound
+comment3.params=
+comment3.target=void\ Vayihi1()
+comment3.text=Play\ Vayihi\ \ sound
+comment4.params=
+comment4.target=void\ stopVayihi1()
+numComments=5

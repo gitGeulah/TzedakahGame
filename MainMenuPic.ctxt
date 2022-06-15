@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MainMenuPic()
+comment1.params=
+comment1.target=void\ initMMP()
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3

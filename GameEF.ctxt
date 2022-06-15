@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameEF()
+comment1.params=
+comment1.target=void\ quit()
+comment1.text=\r\n\ Quit\ function\:\ quit\ the\ application.\r\n
+comment2.params=
+comment2.target=void\ makeFrame()
+comment2.text=\r\n\ Create\ the\ Swing\ frame\ and\ its\ content.\r\n
+comment3.params=
+comment3.target=javax.swing.JMenuBar\ createMenuBar()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
